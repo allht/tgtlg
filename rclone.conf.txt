@@ -1,0 +1,8 @@
+[AllhtetNetflix]
+type = drive
+client_id = 549716680358-us3gdossb415fbrs547mp7bkfoqm962a.apps.googleusercontent.com
+client_secret = s7UnB0FZZ171QByLQGMD54hs
+scope = drive
+root_folder_id =
+token = {"access_token":"ya29.a0ARrdaM9Wc-bIvI8QMrnD7V0vC351v2hHVZBHTeiDG0qr8MnAoxkW1gq2sq_vzoT4CsS_gbzaa5sPqZVIdObE-Bep5ejoyJrSgpFNrcgyTYJK7ZyMVGIilfxGLzTLrrygC-UF0KmtJGn2FOKpGjAOTwPfb52W","token_type":"Bearer","refresh_token":"1//0gJCFqtGVUhx2CgYIARAAGBASNwF-L9IrnmTrWv5rCKEsrLLCw3eQgIrlpJSMT92Ch7UFvEgApCp6ByvIypgrF_AFjRSCe1WZoYs","expiry":"2021-08-11T22:56:21.5733569+06:30"}
+team_drive = 0AP4zAl1zvkC5Uk9PVA
